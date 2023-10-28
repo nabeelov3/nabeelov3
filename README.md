@@ -1,9 +1,4 @@
-- 👋 Hi, I’m beel
-- 👀 I’m interested in tech n lang but I'm in a newbie mode he he
-- 🌱 I’m currently learning about tech and lang
-- 💞️ I’m looking to collaborate on relevant community
-- 📫 Go to my telegram @whenhelovesme
-- tq, bye
+👋 Hi, I’m beel
 
 <!---
 nabeelov3/nabeelov3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
